@@ -1,9 +1,8 @@
-Project: 對對碰
+Project: 對對碰 (Matching Game)
 
 Author: Alexpon, 5jlin
 
 Demo Website:
-	
 	http://140.116.245.148/WebCourse/students/f74011247/Final/index.html
 
 How to play：
@@ -27,3 +26,9 @@ How to play：
 	另外為了讓學生有動力玩
 	我們又做經驗和職業功能
 	讓學生能獲得一些遊戲後的成就感
+	
+	divide into 2 part : teacher and student.
+	both of them can sign up, log in, and play
+	however only teacher can modify questions.
+	student can see rank and score of other student. 
+	by this way it could gain student's accomplishment 
