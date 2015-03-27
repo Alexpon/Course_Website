@@ -1,8 +1,6 @@
 Project: 對對碰
 
-Author: 
-
-	Alexpon, 5jlin
+Author: Alexpon, 5jlin
 
 Demo Website:
 	
