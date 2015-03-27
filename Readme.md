@@ -1,12 +1,15 @@
 Project: 對對碰
 
 Author: 
+
 	Alexpon, 5jlin
 
 Demo Website:
+	
 	http://140.116.245.148/WebCourse/students/f74011247/Final/index.html
 
 How to play：
+	
 	進入頁面後首先看到的是登入畫面，可以選擇老師登入或學生登入
 	沒有帳號時必須先新增帳號也是分老師和學生的部分
 	登入後會切成三個Frame
